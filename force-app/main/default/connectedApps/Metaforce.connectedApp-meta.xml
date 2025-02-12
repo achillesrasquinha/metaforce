@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>achillesrasquinha@gmail.com</contactEmail>
+    <contactPhone>4024305044</contactPhone>
+    <label>Metaforce</label>
+    <oauthConfig>
+        <callbackUrl>https://login.salesforce.com/services/oauth2/success</callbackUrl>
+        <certificate>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</certificate>
+        <consumerKey>3MVG9uq9ANVdsbAW22JUI36Cd2IwxuR5SVoHrLHbSbzzEN0Firf0hX3zlCKPwfQxJvhDIQRt73luIQWcDHhLk</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
+        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
+        <isPkceRequired>true</isPkceRequired>
+        <isRefreshTokenRotationEnabled>false</isRefreshTokenRotationEnabled>
+        <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
+        <isSecretRequiredForTokenExchange>false</isSecretRequiredForTokenExchange>
+        <isTokenExchangeEnabled>false</isTokenExchangeEnabled>
+        <scopes>Api</scopes>
+        <scopes>Full</scopes>
+        <scopes>RefreshToken</scopes>
+        <scopes>EinsteinGPT</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>ENFORCE</ipRelaxation>
+        <isTokenExchangeFlowEnabled>false</isTokenExchangeFlowEnabled>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+</ConnectedApp>
